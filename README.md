@@ -1,2 +1,8 @@
 # Variables-python-
 the first you should learn in paython 
+character_name = "ahmed"
+character_age = "25"
+print(" ther is a boy his named " + character_name+ ", ")
+print(" his a young in " + character_age+ " year old , ")
+print("he realy liked the name " + character_name+",  ")
+print(" but his doesnt liked being in " +character_age+" year old ,")
